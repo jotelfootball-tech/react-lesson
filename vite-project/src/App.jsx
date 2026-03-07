@@ -1,0 +1,21 @@
+import './App.css'
+import Header from './header.jsx';
+import Hero from './hero.jsx';
+import Menu from './menu.jsx';
+import Aboutus from './aboutus.jsx';
+import Services from './services.jsx';
+
+
+function App() {
+  return (
+    <>
+    <Header />
+    <Hero />
+    <Menu />
+    <Aboutus />
+    <Services />
+    </>
+  )
+}
+
+export default App;
