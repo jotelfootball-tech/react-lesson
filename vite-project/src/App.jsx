@@ -4,6 +4,7 @@ import Hero from './hero.jsx';
 import Menu from './menu.jsx';
 import Aboutus from './aboutus.jsx';
 import Services from './services.jsx';
+import Offer from './offer.jsx';
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
     <Menu />
     <Aboutus />
     <Services />
+    <Offer />
     </>
   )
 }
